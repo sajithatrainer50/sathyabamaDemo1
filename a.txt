@@ -6,3 +6,5 @@ git config  user.email "sajithatrainer50@gmail.com"
 7ec39a0cd4d8901f17f45c3b4d83adac59eaeaaa
 
 It serves as a version control system and provides a platform for developers to build, share, and document their projects, fostering a strong community of collaboration.
+
+To create a new branch, you can pass the name of a branch that doesn’t exist yet to this command.
