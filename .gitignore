@@ -1,0 +1,4 @@
+private.txt
+settings.txt
+**/configs
+bin/*.exe
