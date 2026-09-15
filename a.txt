@@ -1,0 +1,4 @@
+A repository serves as a storage for your project and keeps track of all its changes.
+
+git config  user.email "sajithatrainer50@gmail.com"
+  git config user.name "sajithatrainer"
